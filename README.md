@@ -30,8 +30,7 @@ Too use the Dirichlet-Laplace prior proposed in [Bhattacharya et al. 2015](https
 Please cite the following paper when you use R2D2:
 
 
-[Zhang, Yan Dora, et al. "Bayesian Regression Using a Prior on the Model Fit: The R2-D2 Shrinkage Prior." arXiv:1609.00046v3 (2020)](https://arxiv.org/abs/1609.00046v3)
-
+Zhang, Yan Dora, et al. "Bayesian Regression Using a Prior on the Model Fit: The R2-D2 Shrinkage Prior." Journal of the American Statistical Association (2020): 1-37. (https://doi.org/10.1080/01621459.2020.1825449)
 
 
 ## Contact the Author
